@@ -1,0 +1,50 @@
+*** BizzThemes Theme Changelog **
+
+LEGEND
+    * [release]
+	* [feature]
+	* [fix]
+	* [improved]
+	* [deprecated]
+
+2011.12.15 - version 1.1.1
+	* [fix]			sitemap template removed
+	* [fix]			adding template Builder widgets condition logic
+	
+2011.12.13 - version 1.1.0
+	* [improved]	post meta boxes
+	* [improved]	updated jQuery to 1.7.1
+	* [feature]		added Table editing for post editor
+	* [feature]		added page templates
+	* [improved]	updated code for all custom post types
+	* [improved]	updated translation library inside "custom/lang" folder
+	* [improved]	compressed all images
+	
+2011.07.15 - version 1.0.7
+	* [improved]	font design option for Practice area
+	* [improved]	font design option for Navigation area
+	* [fix]			practice area ordering
+	* [improved]	updated jQuery to 1.6.2
+	
+2011.06.14 - version 1.0.6
+	* [improved]	jQuery in footer
+	
+2011.04.15 - version 1.0.5
+	* [improved]	resized theme screenshot to 320x240px
+	
+2011.03.31 - version 1.0.4
+	* [improved]	added ordering options to Practices widget
+	
+2011.03.24 - version 1.0.3
+	* [improved]	default theme options fix
+	
+2011.03.08 - version 1.0.2
+	* [improved]	SEO for practice areas
+	* [improved]	upgraded slider script, faster
+	* [improved]	fixed functions.php file structure
+	
+2011.03.08 - version 1.0.1
+	* [improved]	preload slider images
+	
+2011.03.06 - version 1.0.0
+	* [release]		Initial theme release.

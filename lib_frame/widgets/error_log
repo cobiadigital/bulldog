@@ -1,0 +1,252 @@
+[11-Apr-2012 04:00:38] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-nav-menu.php on line 17
+[11-Apr-2012 04:00:39] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-authors.php on line 18
+[11-Apr-2012 04:00:40] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-categories.php on line 18
+[11-Apr-2012 04:00:49] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-rich-textarea.php on line 10
+[11-Apr-2012 04:01:06] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-comments-loop.php on line 9
+[11-Apr-2012 04:01:15] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-loop.php on line 10
+[11-Apr-2012 04:01:16] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-bookmarks.php on line 18
+[11-Apr-2012 04:01:17] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-tags.php on line 18
+[11-Apr-2012 04:01:18] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-flickr.php on line 10
+[11-Apr-2012 04:01:20] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-twitter.php on line 53
+[11-Apr-2012 04:01:21] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-query-posts.php on line 17
+[11-Apr-2012 04:01:27] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-search.php on line 18
+[11-Apr-2012 04:01:33] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-pages.php on line 23
+[11-Apr-2012 04:01:37] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-logo.php on line 19
+[11-Apr-2012 04:01:40] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-calendar.php on line 18
+[11-Apr-2012 04:01:44] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-archives.php on line 18
+[11-Apr-2012 04:02:05] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-comments-form.php on line 8
+[11-Apr-2012 04:02:06] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-contact-form.php on line 10
+[29-May-2012 21:50:08] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-nav-menu.php on line 17
+[29-May-2012 21:50:09] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-authors.php on line 18
+[29-May-2012 21:50:15] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-categories.php on line 18
+[29-May-2012 21:50:21] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-loop.php on line 10
+[29-May-2012 21:50:25] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-bookmarks.php on line 18
+[29-May-2012 21:50:26] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-tags.php on line 18
+[29-May-2012 21:50:28] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-flickr.php on line 10
+[29-May-2012 21:50:31] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-archives.php on line 18
+[29-May-2012 21:50:32] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-twitter.php on line 53
+[29-May-2012 21:50:33] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-query-posts.php on line 17
+[29-May-2012 21:50:36] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-rich-textarea.php on line 10
+[29-May-2012 21:50:37] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-comments-loop.php on line 9
+[29-May-2012 21:50:46] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-pages.php on line 23
+[29-May-2012 21:50:48] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-search.php on line 18
+[29-May-2012 21:50:53] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-logo.php on line 19
+[29-May-2012 21:50:56] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-calendar.php on line 18
+[29-May-2012 21:51:07] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-comments-form.php on line 8
+[29-May-2012 21:51:11] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-contact-form.php on line 10
+[23-Jun-2012 16:24:22] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-nav-menu.php on line 17
+[23-Jun-2012 16:24:24] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-authors.php on line 18
+[23-Jun-2012 16:24:28] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-categories.php on line 18
+[23-Jun-2012 16:24:39] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-archives.php on line 18
+[23-Jun-2012 16:24:44] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-loop.php on line 10
+[23-Jun-2012 16:24:45] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-bookmarks.php on line 18
+[23-Jun-2012 16:25:05] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-tags.php on line 18
+[23-Jun-2012 16:25:07] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-flickr.php on line 10
+[23-Jun-2012 16:25:08] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-twitter.php on line 53
+[23-Jun-2012 16:25:09] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-query-posts.php on line 17
+[23-Jun-2012 16:25:13] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-rich-textarea.php on line 10
+[23-Jun-2012 16:25:26] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-pages.php on line 23
+[23-Jun-2012 16:25:32] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-logo.php on line 19
+[23-Jun-2012 16:25:35] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-calendar.php on line 18
+[23-Jun-2012 16:25:40] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-comments-loop.php on line 9
+[23-Jun-2012 16:25:49] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-search.php on line 18
+[23-Jun-2012 16:25:52] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-contact-form.php on line 10
+[23-Jun-2012 16:25:57] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-comments-form.php on line 8
+[30-Oct-2012 19:43:02] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-nav-menu.php on line 17
+[30-Oct-2012 19:43:06] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-authors.php on line 18
+[30-Oct-2012 19:43:08] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-categories.php on line 18
+[30-Oct-2012 19:43:20] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-loop.php on line 10
+[30-Oct-2012 19:43:23] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-bookmarks.php on line 18
+[30-Oct-2012 19:43:24] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-tags.php on line 18
+[30-Oct-2012 19:43:26] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-flickr.php on line 10
+[30-Oct-2012 19:43:27] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-pages.php on line 23
+[30-Oct-2012 19:43:28] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-twitter.php on line 53
+[30-Oct-2012 19:43:30] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-query-posts.php on line 17
+[30-Oct-2012 19:43:33] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-rich-textarea.php on line 10
+[30-Oct-2012 19:43:43] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-search.php on line 18
+[30-Oct-2012 19:43:46] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-contact-form.php on line 10
+[30-Oct-2012 19:43:48] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-logo.php on line 19
+[30-Oct-2012 19:43:50] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-archives.php on line 18
+[30-Oct-2012 19:43:52] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-calendar.php on line 18
+[30-Oct-2012 19:43:56] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-comments-form.php on line 8
+[30-Oct-2012 19:44:03] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-comments-loop.php on line 9
+[23-Feb-2013 23:34:49] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-contact-form.php on line 10
+[23-Feb-2013 23:34:51] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-nav-menu.php on line 17
+[23-Feb-2013 23:34:52] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-archives.php on line 18
+[23-Feb-2013 23:34:54] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-pages.php on line 23
+[23-Feb-2013 23:34:55] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-query-posts.php on line 17
+[23-Feb-2013 23:34:56] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-loop.php on line 10
+[23-Feb-2013 23:34:58] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-rich-textarea.php on line 10
+[23-Feb-2013 23:34:59] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-tags.php on line 18
+[23-Feb-2013 23:35:00] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-categories.php on line 18
+[23-Feb-2013 23:35:03] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-flickr.php on line 10
+[23-Feb-2013 23:35:05] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-bookmarks.php on line 18
+[23-Feb-2013 23:35:06] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-twitter.php on line 53
+[23-Feb-2013 23:35:07] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-logo.php on line 19
+[23-Feb-2013 23:35:10] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-authors.php on line 18
+[23-Feb-2013 23:35:12] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-search.php on line 18
+[23-Feb-2013 23:36:32] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-nav-menu.php on line 17
+[23-Feb-2013 23:36:33] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-authors.php on line 18
+[23-Feb-2013 23:36:34] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-categories.php on line 18
+[23-Feb-2013 23:36:35] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-loop.php on line 10
+[23-Feb-2013 23:36:43] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-bookmarks.php on line 18
+[23-Feb-2013 23:36:44] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-tags.php on line 18
+[23-Feb-2013 23:36:45] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-flickr.php on line 10
+[23-Feb-2013 23:36:47] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-twitter.php on line 53
+[23-Feb-2013 23:36:48] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-query-posts.php on line 17
+[23-Feb-2013 23:36:51] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-comments-form.php on line 8
+[23-Feb-2013 23:36:52] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-rich-textarea.php on line 10
+[23-Feb-2013 23:36:59] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-contact-form.php on line 10
+[23-Feb-2013 23:37:03] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-pages.php on line 23
+[23-Feb-2013 23:37:13] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-logo.php on line 19
+[23-Feb-2013 23:37:17] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-calendar.php on line 18
+[23-Feb-2013 23:37:18] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-archives.php on line 18
+[23-Feb-2013 23:37:37] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-comments-loop.php on line 9
+[23-Feb-2013 23:37:39] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-search.php on line 18
+[02-Jun-2013 09:42:58] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-contact-form.php on line 10
+[02-Jun-2013 09:43:00] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-nav-menu.php on line 17
+[02-Jun-2013 09:43:01] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-archives.php on line 18
+[02-Jun-2013 09:43:02] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-pages.php on line 23
+[02-Jun-2013 09:43:04] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-query-posts.php on line 17
+[02-Jun-2013 09:43:05] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-loop.php on line 10
+[02-Jun-2013 09:43:06] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-rich-textarea.php on line 10
+[02-Jun-2013 09:43:08] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-tags.php on line 18
+[02-Jun-2013 09:43:15] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-categories.php on line 18
+[02-Jun-2013 09:43:16] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-flickr.php on line 10
+[02-Jun-2013 09:43:17] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-bookmarks.php on line 18
+[02-Jun-2013 09:43:18] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-twitter.php on line 53
+[02-Jun-2013 09:43:20] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-logo.php on line 19
+[02-Jun-2013 09:43:21] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-authors.php on line 18
+[02-Jun-2013 09:44:38] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-nav-menu.php on line 17
+[02-Jun-2013 09:44:39] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-authors.php on line 18
+[02-Jun-2013 09:44:41] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-contact-form.php on line 10
+[02-Jun-2013 09:44:42] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-categories.php on line 18
+[02-Jun-2013 09:44:43] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-loop.php on line 10
+[02-Jun-2013 09:44:46] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-bookmarks.php on line 18
+[02-Jun-2013 09:44:48] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-tags.php on line 18
+[02-Jun-2013 09:44:49] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-flickr.php on line 10
+[02-Jun-2013 09:44:50] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-twitter.php on line 53
+[02-Jun-2013 09:44:52] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-comments-form.php on line 8
+[02-Jun-2013 09:44:53] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-query-posts.php on line 17
+[02-Jun-2013 09:44:58] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-rich-textarea.php on line 10
+[02-Jun-2013 09:45:02] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-search.php on line 18
+[02-Jun-2013 09:45:14] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-pages.php on line 23
+[02-Jun-2013 09:45:28] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-logo.php on line 19
+[02-Jun-2013 09:45:34] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-calendar.php on line 18
+[02-Jun-2013 09:45:41] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-comments-loop.php on line 9
+[02-Jun-2013 09:45:42] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-archives.php on line 18
+[10-Sep-2013 01:57:51] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-contact-form.php on line 10
+[10-Sep-2013 01:57:52] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-nav-menu.php on line 17
+[10-Sep-2013 01:57:54] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-archives.php on line 18
+[10-Sep-2013 01:57:55] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-pages.php on line 23
+[10-Sep-2013 01:57:57] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-query-posts.php on line 17
+[10-Sep-2013 01:57:58] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-loop.php on line 10
+[10-Sep-2013 01:57:59] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-logo.php on line 19
+[10-Sep-2013 01:58:01] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-rich-textarea.php on line 10
+[10-Sep-2013 01:58:02] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-tags.php on line 18
+[10-Sep-2013 01:58:03] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-categories.php on line 18
+[10-Sep-2013 01:58:06] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-flickr.php on line 10
+[10-Sep-2013 01:58:07] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-twitter.php on line 53
+[10-Sep-2013 01:58:09] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-bookmarks.php on line 18
+[10-Sep-2013 01:58:13] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-authors.php on line 18
+[10-Sep-2013 01:59:17] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-nav-menu.php on line 17
+[10-Sep-2013 01:59:19] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-authors.php on line 18
+[10-Sep-2013 01:59:22] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-categories.php on line 18
+[10-Sep-2013 01:59:27] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-loop.php on line 10
+[10-Sep-2013 01:59:28] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-bookmarks.php on line 18
+[10-Sep-2013 01:59:29] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-tags.php on line 18
+[10-Sep-2013 01:59:36] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-flickr.php on line 10
+[10-Sep-2013 01:59:37] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-twitter.php on line 53
+[10-Sep-2013 01:59:39] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-query-posts.php on line 17
+[10-Sep-2013 01:59:41] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-rich-textarea.php on line 10
+[10-Sep-2013 01:59:49] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-search.php on line 18
+[10-Sep-2013 01:59:57] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-pages.php on line 23
+[10-Sep-2013 02:00:01] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-archives.php on line 18
+[10-Sep-2013 02:00:04] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-logo.php on line 19
+[10-Sep-2013 02:00:06] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-calendar.php on line 18
+[10-Sep-2013 02:00:09] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-comments-form.php on line 8
+[10-Sep-2013 02:00:13] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-comments-loop.php on line 9
+[10-Sep-2013 02:00:14] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-contact-form.php on line 10
+[22-Dec-2013 12:15:09 America/Denver] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-contact-form.php on line 10
+[22-Dec-2013 12:15:10 America/Denver] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-nav-menu.php on line 17
+[22-Dec-2013 12:15:11 America/Denver] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-archives.php on line 18
+[22-Dec-2013 12:15:13 America/Denver] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-pages.php on line 23
+[22-Dec-2013 12:15:14 America/Denver] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-query-posts.php on line 17
+[22-Dec-2013 12:15:15 America/Denver] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-loop.php on line 10
+[22-Dec-2013 12:15:16 America/Denver] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-tags.php on line 18
+[22-Dec-2013 12:15:18 America/Denver] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-logo.php on line 19
+[22-Dec-2013 12:15:19 America/Denver] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-bookmarks.php on line 18
+[22-Dec-2013 12:15:21 America/Denver] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-rich-textarea.php on line 10
+[22-Dec-2013 12:15:22 America/Denver] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-categories.php on line 18
+[22-Dec-2013 12:15:28 America/Denver] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-flickr.php on line 10
+[22-Dec-2013 12:15:30 America/Denver] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-twitter.php on line 53
+[22-Dec-2013 12:15:32 America/Denver] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-authors.php on line 18
+[22-Dec-2013 12:17:06 America/Denver] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-nav-menu.php on line 17
+[22-Dec-2013 12:17:07 America/Denver] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-authors.php on line 18
+[22-Dec-2013 12:17:09 America/Denver] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-categories.php on line 18
+[22-Dec-2013 12:17:10 America/Denver] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-loop.php on line 10
+[22-Dec-2013 12:17:11 America/Denver] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-bookmarks.php on line 18
+[22-Dec-2013 12:17:12 America/Denver] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-comments-loop.php on line 9
+[22-Dec-2013 12:17:14 America/Denver] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-tags.php on line 18
+[22-Dec-2013 12:17:16 America/Denver] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-flickr.php on line 10
+[22-Dec-2013 12:17:18 America/Denver] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-twitter.php on line 53
+[22-Dec-2013 12:17:27 America/Denver] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-query-posts.php on line 17
+[22-Dec-2013 12:17:30 America/Denver] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-rich-textarea.php on line 10
+[22-Dec-2013 12:17:35 America/Denver] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-calendar.php on line 18
+[22-Dec-2013 12:17:41 America/Denver] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-search.php on line 18
+[22-Dec-2013 12:17:45 America/Denver] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-pages.php on line 23
+[22-Dec-2013 12:17:50 America/Denver] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-logo.php on line 19
+[22-Dec-2013 12:17:57 America/Denver] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-archives.php on line 18
+[22-Dec-2013 12:18:01 America/Denver] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-comments-form.php on line 8
+[22-Dec-2013 12:18:02 America/Denver] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-contact-form.php on line 10
+[02-Apr-2014 07:05:21 America/Denver] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-contact-form.php on line 10
+[02-Apr-2014 07:05:22 America/Denver] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-nav-menu.php on line 17
+[02-Apr-2014 07:05:23 America/Denver] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-pages.php on line 23
+[02-Apr-2014 07:05:24 America/Denver] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-archives.php on line 18
+[02-Apr-2014 07:05:26 America/Denver] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-query-posts.php on line 17
+[02-Apr-2014 07:05:27 America/Denver] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-loop.php on line 10
+[02-Apr-2014 07:05:28 America/Denver] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-rich-textarea.php on line 10
+[02-Apr-2014 07:05:30 America/Denver] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-tags.php on line 18
+[02-Apr-2014 07:05:31 America/Denver] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-categories.php on line 18
+[02-Apr-2014 07:05:32 America/Denver] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-authors.php on line 18
+[02-Apr-2014 07:05:36 America/Denver] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-flickr.php on line 10
+[02-Apr-2014 07:05:38 America/Denver] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-logo.php on line 19
+[02-Apr-2014 07:05:39 America/Denver] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-bookmarks.php on line 18
+[02-Apr-2014 07:05:40 America/Denver] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-twitter.php on line 53
+[02-Apr-2014 07:05:43 America/Denver] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-search.php on line 18
+[02-Apr-2014 07:06:53 America/Denver] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-nav-menu.php on line 17
+[02-Apr-2014 07:06:55 America/Denver] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-authors.php on line 18
+[02-Apr-2014 07:06:56 America/Denver] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-categories.php on line 18
+[02-Apr-2014 07:06:58 America/Denver] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-loop.php on line 10
+[02-Apr-2014 07:06:59 America/Denver] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-bookmarks.php on line 18
+[02-Apr-2014 07:07:00 America/Denver] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-tags.php on line 18
+[02-Apr-2014 07:07:02 America/Denver] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-flickr.php on line 10
+[02-Apr-2014 07:07:03 America/Denver] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-twitter.php on line 53
+[02-Apr-2014 07:07:04 America/Denver] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-query-posts.php on line 17
+[02-Apr-2014 07:07:07 America/Denver] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-rich-textarea.php on line 10
+[02-Apr-2014 07:07:18 America/Denver] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-pages.php on line 23
+[02-Apr-2014 07:07:23 America/Denver] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-logo.php on line 19
+[02-Apr-2014 07:07:27 America/Denver] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-calendar.php on line 18
+[02-Apr-2014 07:07:31 America/Denver] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-comments-loop.php on line 9
+[02-Apr-2014 07:07:33 America/Denver] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-archives.php on line 18
+[02-Apr-2014 07:07:34 America/Denver] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-contact-form.php on line 10
+[02-Apr-2014 07:07:47 America/Denver] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-comments-form.php on line 8
+[02-Apr-2014 07:07:49 America/Denver] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-search.php on line 18
+[26-May-2014 12:43:44 America/Denver] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-search.php on line 18
+[26-May-2014 12:43:45 America/Denver] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-nav-menu.php on line 17
+[26-May-2014 12:43:46 America/Denver] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-authors.php on line 18
+[26-May-2014 12:43:51 America/Denver] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-categories.php on line 18
+[26-May-2014 12:43:57 America/Denver] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-loop.php on line 10
+[26-May-2014 12:43:59 America/Denver] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-bookmarks.php on line 18
+[26-May-2014 12:44:00 America/Denver] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-contact-form.php on line 10
+[26-May-2014 12:44:01 America/Denver] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-rich-textarea.php on line 10
+[26-May-2014 12:44:03 America/Denver] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-comments-form.php on line 8
+[26-May-2014 12:44:04 America/Denver] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-tags.php on line 18
+[26-May-2014 12:44:05 America/Denver] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-flickr.php on line 10
+[26-May-2014 12:44:07 America/Denver] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-twitter.php on line 53
+[26-May-2014 12:44:08 America/Denver] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-archives.php on line 18
+[26-May-2014 12:44:09 America/Denver] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-query-posts.php on line 17
+[26-May-2014 12:44:23 America/Denver] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-pages.php on line 23
+[26-May-2014 12:44:29 America/Denver] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-comments-loop.php on line 9
+[26-May-2014 12:44:32 America/Denver] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-logo.php on line 19
+[26-May-2014 12:44:33 America/Denver] PHP Fatal error:  Class 'WP_Widget' not found in /home5/greenep1/public_html/poindexter/wp-content/themes/law-firm2/lib_frame/widgets/widget-calendar.php on line 18

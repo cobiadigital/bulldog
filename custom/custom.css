@@ -1,0 +1,40 @@
+/*
+File:			custom.css
+Description:	Custom styles for Your Theme
+
+HOW TO USE THIS FILE:
+
+Override any class you want and it will change default styling to suit your needs.
+
+	1. Activate custom.css file in theme admin panel
+	2. Open style.css file and find any clasess you want to override
+	3. Copy classes to override in this file, put them outside green commented area
+
+
+START OVERRIDING / ADDING NEW CLASSES BELOW THIS LINE */
+
+H1{
+margin:0 0 2px -5px;
+color:#182C55;
+}
+
+H2{
+margin:0 0 2px -5;
+color:#182C55;
+}
+H3{
+margin-bottom:2px;
+color:#182C55;
+}
+.widget P {
+line-height: 1.5em;
+margin-bottom: 1em;
+.widget H3{margin:0 0 2px 0;}
+.widget H2{color:#182C55;
+}p, ul {
+margin-left:2em;
+}
+#header_area{
+padding: 0px 25px 0px 0;
+height: 600px !important;
+}

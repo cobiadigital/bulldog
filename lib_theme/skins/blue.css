@@ -1,0 +1,19 @@
+body { background-color:#F5F5F5 }
+a{ color:#3C9EC1 }
+
+#header_area, #footer_area { background-color:#444E4F }
+#main_area { border-top:6px solid #8FADB5 }
+.widget_practices ul.practiceswidget { background-color:#E1E6E8 }
+.widget_practices li.current_page_item a, .widget_practices li.current_page_item a:hover,
+.widget .nav-menu li.current-menu-item a, .widget .nav-menu li.current-menu-item a:hover,
+.widget .nav-menu li.current_page_item a, .widget .nav-menu li.current_page_item a:hover { background-color:#D4D9DB }
+
+
+
+
+
+
+
+
+
+
